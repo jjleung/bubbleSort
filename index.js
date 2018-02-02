@@ -38,7 +38,6 @@ n
     }while(didSwap);
 
     return arr;
-    
 }
 module.exports = {
     sort
